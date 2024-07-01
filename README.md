@@ -8,7 +8,6 @@ How to use?
 2. Ensure the file has +x persmission in order to run this script
 3. run the script as ./get-mac-bodyfile.sh
 
+
 ping me on linkedin if you have any questions
-
-
-Alwin Espiritu
+https://www.linkedin.com/in/alwinux/
